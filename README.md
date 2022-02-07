@@ -11,3 +11,7 @@ This is how the files are organised
 
 
 <img width="1053" alt="IPL_path" src="https://user-images.githubusercontent.com/70255695/152839564-1e2d42e8-eb24-4efb-bb7c-c388d95b68fc.png">
+
+4 - content inside the file looks like this. 
+
+<img width="1438" alt="data" src="https://user-images.githubusercontent.com/70255695/152841615-31176b51-828e-4711-bfd9-f7e7c05dd3b7.png">
